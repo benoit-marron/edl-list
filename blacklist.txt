@@ -1,4 +1,4 @@
-facebook.com/
-gambling.com/
-lequipe.fr/
+*.facebook.com/
+*.gambling.com/
+*.lequipe.fr/
 *.microsoft.com/
